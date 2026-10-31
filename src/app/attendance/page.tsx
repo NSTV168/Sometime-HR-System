@@ -1,0 +1,1 @@
+export default function AttendancePage(){return <main style={{padding:32,fontFamily:"Arial,sans-serif"}}><h1>SOMETIME HR — Attendance</h1><p>ระบบลงเวลา QR / PIN / Face verification จะเปิดใช้เมื่อกำหนด provider, consent, geofence และตรวจสอบ API/security แล้วเท่านั้น</p><a href="/staff">กลับ Employee Portal</a></main>}
